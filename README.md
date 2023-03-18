@@ -19,7 +19,7 @@ Gestor de Ordens de Serviço é uma aplicação que pretende facilitar o process
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+
 
 # Documentação
 
