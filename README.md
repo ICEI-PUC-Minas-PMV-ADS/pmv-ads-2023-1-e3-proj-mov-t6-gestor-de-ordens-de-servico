@@ -1,10 +1,10 @@
 # Gestor de Ordens de Serviço
 
-`Análise e Desenvolvimento de Sistemas`
+`Tecnologia em Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`Eixo 3`
+`3º Semestre`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
@@ -12,12 +12,10 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Bem Vilac 
 * Luiz Fellipe Pereira Pires
-* Nome completo do aluno 3
-* Nome completo do aluno 4
 
 ## Orientador
 
-* Nome completo do professor 1
+* Diego Silva Caldeira Rocha
 
 ## Instruções de utilização
 
