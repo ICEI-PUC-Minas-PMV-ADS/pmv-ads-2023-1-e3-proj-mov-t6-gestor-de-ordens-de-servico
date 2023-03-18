@@ -1,17 +1,17 @@
-# TÍTULO DO PROJETO
+# Gestor de Ordens de Serviço
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
 `DISCIPLINA`
 
-`SEMESTRE`
+`Eixo 3`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Bem Vilac 
+* Luiz Fellipe Pereira Pires
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
