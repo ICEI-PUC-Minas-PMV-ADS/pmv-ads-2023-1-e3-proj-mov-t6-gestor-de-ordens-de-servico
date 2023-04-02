@@ -8,8 +8,9 @@ Em um contexto de mundo corporativo cada vez mais conectado e com demandas sendo
 ![Persona1](https://user-images.githubusercontent.com/76191741/229353765-48c64e18-2dd2-4186-8b3b-4238aaf2fe5c.png)
 <br>
 <br>
-Persona 2: Lucas Alexandre, 39 anos, Colaborador no setor de engenharia da empresa, Lucas está motivado em trabalhar no seu crescimento profissional, atuando  nos setores de facility da  empresa. 
-Lucas busca uma forma mais moderna de enviar solicitações de OS para mais detalhamento e agilidade nos pedidos.
+Persona 1: Aline Alves, 39 anos, colaboradora no cargo de Surpevisora de Facility. Aline busca melhores condições para seu crescimento profissional e também deseja melhoria na qualidade e nos dados relacionados aos pedidos no Facility.
+
+Persona 2: Lucas Alexandre, 35 anos, Colaborador no setor de engenharia da empresa, Lucas está motivado em trabalhar no seu crescimento profissional, atuando  nos setores de facility da  empresa. Lucas deseja uma melhor forma de enviar solicitações de OS para mais detalhamento e agilidade nos pedidos.
 
 
 
