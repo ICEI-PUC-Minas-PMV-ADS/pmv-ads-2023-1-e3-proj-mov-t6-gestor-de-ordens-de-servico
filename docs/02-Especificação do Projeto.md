@@ -1,7 +1,5 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
 Em um contexto de mundo corporativo cada vez mais conectado e com demandas sendo geradas a todo momento, se mostra útil para o setor de facilities de uma empresa ter uma ferramenta informatizada e disponível online na qual seja possível receber e gerenciar ordens de serviço destinadas ao referido setor. Com base no conhecimento e experiência profissional dos integrantes do grupo, os anseios tanto dos profissionais dos setores de facilities quanto dos usuários foram traduzidos nas histórias das personas apresentadas abaixo. 
 
 ## Personas   
