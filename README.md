@@ -10,15 +10,15 @@ Gestor de Ordens de Serviço é uma aplicação que pretende facilitar o process
 
 ## Integrantes
 
-*Bemvilac dos Santos Brito
+* Bemvilac dos Santos Brito
 
-*Lucas Alexandre da Silva Santos
+* Lucas Alexandre da Silva Santos
 
-*Luiz Fellipe Pereira Pires
+* Luiz Fellipe Pereira Pires
 
-*Luiz Guilherme Martins Franchim
+* Luiz Guilherme Martins Franchim
 
-*Sávio Andrade Roquette
+* Sávio Andrade Roquette
 
 ## Orientador
 
