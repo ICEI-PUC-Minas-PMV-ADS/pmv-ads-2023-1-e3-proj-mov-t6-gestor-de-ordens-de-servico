@@ -5,8 +5,8 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 As referências abaixo irão auxiliá-lo na geração do artefato “Registro de Testes de Usabilidade”.
 
 Tela de Bem Vindo
+<br>
 ![image](https://user-images.githubusercontent.com/98265702/236705159-594457d1-1013-48f2-bcb9-daea86c9633e.png)
-
 <br>
 Tela de Login
 <br>
