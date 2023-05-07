@@ -33,9 +33,10 @@ A equipe está organizada da seguinte maneira:
 - 
 ## Processo : Backlog e Plano de Sprints
  
- <p>Tarefas são regidas pelo Scrum Master (Lucas Alexandre) e cadastradas no backlog do projeto dentro do Github, dividindo-as para cada respectivo membro da equipe responsável..<br>
- As tarefas são colocadas dentro de uma <strong>sprint<strong> com duração até o final de cada etapa do projeto, cada tarefa tem status como: Andamento, a fazer e feito.  As tarefas também contém marcações de tipo e também qual a branch que vai ser realizada. Todos os diass a equipe faz uma pequena reunião para fazer as seguintes perguntas: "O que você fez Ontem e Hoje para ajudar a equipe na realização dos objetivos?" e alteramos o backlog conforme as informações dita nessa reunião.
-<br>
+ <p>Tarefas são regidas pelo Scrum Master (Lucas Alexandre) e cadastradas no backlog do projeto utilizando Trello, dividindo-as para cada respectivo membro da equipe responsável..<br>
+ As tarefas são colocadas dentro de uma <strong>sprint<strong> com duração até o final de cada etapa do projeto, cada tarefa tem status como: Andamento, a fazer e Concluído.  As tarefas também contém marcações de tipo e também qual a branch que vai ser realizada. Todos os diass a equipe faz uma pequena reunião para fazer as seguintes perguntas: "O que você fez Ontem e Hoje para ajudar a equipe na realização dos objetivos?" e alteramos o backlog conforme as informações dita nessa reunião.
+![Gestor de OS](https://user-images.githubusercontent.com/76191741/236704984-dd7a1943-08e3-4849-8833-70f2357107bf.JPG)
+ <br>
 
 ### Ferramentas
 
