@@ -6,6 +6,9 @@
 
 `3º Semestre`
 
+![gtos](https://user-images.githubusercontent.com/98265702/236701733-acbc63dd-de06-44f7-b066-6c657fbe7bef.png)
+
+
 Gestor de Ordens de Serviço é uma aplicação que pretende facilitar o processo entre uma pessoa que precisa de um serviço e uma pessoa que presta serviços(trabalhador). As pessoas costumam perder bastante tempo para conseguir um serviço de qualidade, o que leva muitas vezes à desistência por parte do cliente e desemprego por parte da pessoa que presta serviços(trabalhador). Com o site priorizando os cientes e os prestadores de serviço podendo agendar seu serviço de forma online, melhorando o sistema de marcação de serviços e o tornando mais rápido e eficaz para os clientes e os prestadores de serviço, além de auxiliar na organização da agenda de ambos.
 
 ## Integrantes
