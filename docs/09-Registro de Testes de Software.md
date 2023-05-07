@@ -1,7 +1,7 @@
 # Registro de Testes de Usabilidade
 
 <b>Etapas do Teste</b>
-
+<br>
 Tela de Bem Vindo
 <br>
 ![image](https://user-images.githubusercontent.com/98265702/236705159-594457d1-1013-48f2-bcb9-daea86c9633e.png)
