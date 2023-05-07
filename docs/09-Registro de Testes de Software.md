@@ -7,7 +7,7 @@
 *Acessar a tela de cadastro em "Não é cadastrado? Inscrever-se"
 <br>
 <br>
-Tela de Bem Vindo
+<b>Tela de Bem Vindo
 <br>
 ![image](https://user-images.githubusercontent.com/98265702/236705159-594457d1-1013-48f2-bcb9-daea86c9633e.png)
 <br>
