@@ -3,8 +3,8 @@
 <b>Etapas do Teste</b>
 <br>
 
-*Acessar a tela de login pelo botão "Acessar"
-*Acessar a tela de cadastro em "Não é cadastrado, clique aqui"
+*Acessar a tela de login pelo botão "Acessar" <br>
+*Acessar a tela de cadastro em "Não é cadastrado? Inscrever-se"
 <br>
 Tela de Bem Vindo
 <br>
