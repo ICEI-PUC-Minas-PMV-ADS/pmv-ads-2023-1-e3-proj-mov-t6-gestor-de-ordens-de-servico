@@ -3,7 +3,7 @@
 A tecnologia está constantemente presente no nosso dia a dia. A ordem de serviço (OS) documenta o início de toda prestação de serviços e merece atenção especial dos empreendedores. Ela funciona como um guia para todo o processo de contratação e execução do trabalho dentro da empresa, ajudando a manter os colaboradores alinhados e o gestor informado.O uso da tecnologia como uma facilitadora na relação entre profissional e cliente vem inovando ao decorrer do tempo, no Brasil começou a se desenvolver em meados dos anos 90.
 
 ## Problema
-Conforme exposto, o problema que se busca resolver com este projeto é alcançar mais eficiência nos canais de atendimento entre o relacionamento de cliente e o prestador de serviços, com agilidade e também segurança, já que recebe muitos clientes e prestador de serviços , que torna difícil a comunicação entre ambos por meio próprio.
+Conforme exposto, o problema que se busca resolver com este projeto é alcançar mais eficiência nos canais de atendimento entre o relacionamento de cliente e o prestador de serviços, com agilidade e também segurança, já que recebe muitos clientes e prestador de serviços, que torna difícil a comunicação entre ambos por meio próprio.
 
 ## Objetivos
 
