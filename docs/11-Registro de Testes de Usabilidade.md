@@ -8,8 +8,10 @@ Tela de Bem Vindo
 ![image](https://user-images.githubusercontent.com/98265702/236704727-c556f389-dfd6-44a3-8bbe-beaab122822f.png)
 <br>
 Tela de Login
+<br>
 ![image](https://user-images.githubusercontent.com/98265702/236704680-efa5fac6-429d-4a27-a801-00defa35a89e.png)
 <br>
 Tela de Cadastro
+<br>
 ![image](https://user-images.githubusercontent.com/98265702/236705077-06c1b297-c10e-41f9-924d-5cbc61f8c403.png)
 
