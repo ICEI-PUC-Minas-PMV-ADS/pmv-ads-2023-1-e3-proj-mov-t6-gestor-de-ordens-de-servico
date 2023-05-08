@@ -5,13 +5,13 @@
 ##### É apresentado ao usuário uma tela de "Bem Vindo" do aplicativo.
 
 > Aspecto Visual
+> 
 > ![Tela 1](https://user-images.githubusercontent.com/76191741/236713740-a27a0292-e5c0-4bfb-9149-0fbf43ff0bdd.JPG)
 
 > Artefato de Construção
 
- import React from 'react';
+import React from 'react';
 import { StyleSheet, Text, View, Image, Button } from 'react-native';
-
 const WelcomePage = () => {
   return (
     <View style={styles.container}>
@@ -27,7 +27,6 @@ const WelcomePage = () => {
     </View>
   );
 };
-
 const styles = StyleSheet.create({
   container: {
     flex: 1,
@@ -53,7 +52,6 @@ const styles = StyleSheet.create({
     marginHorizontal: 40,
     color: '#0139D3',
   },
-
   subtitlee: {
     fontSize: 13,
     textAlign: 'center',
@@ -61,7 +59,6 @@ const styles = StyleSheet.create({
     color: '#1B4B97',
   },
 });
-
 export default WelcomePage;
   
 ## Tela de Principal
