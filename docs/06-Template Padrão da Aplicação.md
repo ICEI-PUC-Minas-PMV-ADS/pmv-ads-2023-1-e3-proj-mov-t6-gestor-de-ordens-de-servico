@@ -12,6 +12,7 @@
 
 import React from 'react';
 import { StyleSheet, Text, View, Image, Button } from 'react-native';
+
 const WelcomePage = () => {
   return (
     <View style={styles.container}>
@@ -27,6 +28,11 @@ const WelcomePage = () => {
     </View>
   );
 };
+
+
+
+
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
@@ -52,6 +58,7 @@ const styles = StyleSheet.create({
     marginHorizontal: 40,
     color: '#0139D3',
   },
+
   subtitlee: {
     fontSize: 13,
     textAlign: 'center',
@@ -59,6 +66,7 @@ const styles = StyleSheet.create({
     color: '#1B4B97',
   },
 });
+
 export default WelcomePage;
   
 ## Tela de Principal
