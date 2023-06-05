@@ -32,8 +32,8 @@
         
 > Aspecto Visual
 > 
-![Tela 4](![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t6-gestor-de-ordens-de-servico/assets/98265702/1ac7afd9-3cc5-48be-845d-f67df39190b2)
-)
+![Tela 4]![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t6-gestor-de-ordens-de-servico/assets/98265702/e99137fa-4fde-49a1-aba3-fe5275f772af)
+
         
 
 
