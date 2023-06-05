@@ -25,6 +25,14 @@
 > Aspecto Visual
 > 
 ![Tela 3](https://user-images.githubusercontent.com/76191741/236714346-3a42d9da-e4bb-4bc2-8da6-27b1e7f3096b.JPG)
+
+## Tela de Busca de Serviço do Usuário
+
+##### Requisito gerador da funcionalidade, o usuário ao clicar em "Contratar um profissional para um serviço ou Buscar um serviço em sua área" é direcionada ao serviço específico de seu interesse.
+        
+> Aspecto Visual
+> 
+![Tela 3](![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t6-gestor-de-ordens-de-servico/assets/98265702/00c1ee6c-187d-4a70-b92a-1639e2c6c9b1))
         
 
 
