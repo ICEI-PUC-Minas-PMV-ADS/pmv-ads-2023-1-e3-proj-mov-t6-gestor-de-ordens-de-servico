@@ -34,6 +34,14 @@
 > Tela 4
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t6-gestor-de-ordens-de-servico/assets/98265702/e99137fa-4fde-49a1-aba3-fe5275f772af)
 
+## Tela de Login do Usuário
+
+##### Requisito gerador da funcionalidade, o usuário ao clicar em "Digitar seu Login e Setor" é direcionada ao serviço específico de seu interesse.
+        
+> Aspecto Visual
+> Tela 5
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t6-gestor-de-ordens-de-servico/assets/98265702/769c254c-86b1-4cdf-b410-ddff0007bf5b)
+
         
 
 
